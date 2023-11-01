@@ -1,0 +1,9 @@
+{
+  "@@locale": "pt",
+  "title": "StockFlow",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nomeCadastrar": "Seu nome"
+}
